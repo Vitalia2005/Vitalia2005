@@ -21,4 +21,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitalia2005&theme=buefy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitalia2005&theme=buefy)
 
-<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/> Опыт работы</h1>
+<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы</h1>
+<a></a>
+<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="50"/>Образование</h1>
