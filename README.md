@@ -22,5 +22,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitalia2005&theme=buefy)
 
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы</h1>
-<a></a> 
+<a>Апрель 2023 – н.в.:
+преподаватель Python и создания игр в Roblox (удалённо) 
+Февраль 2023 – Апрель 2023 (3 месяца): 
+помощник преподавателя (репетитор) по математике в учебном центре
+</a> 
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование</h1>
