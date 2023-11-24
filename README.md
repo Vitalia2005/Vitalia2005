@@ -23,4 +23,4 @@
 
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы</h1>
 <a></a>
-<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="50"/>Образование</h1>
+<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="70"/>Образование</h1>
