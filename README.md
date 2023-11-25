@@ -70,6 +70,11 @@
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/hunde580%20(1).gif" height="70"/>  Достижения</h1>
 
  Участница многочисленных олимпиад школьников по программированию и математике, призер олимпиад КФУ и «Миссия выполнима» по математике (2021 год)
+
+<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/WKQV.gif" height="70"/>  Языки</h1>
+
+Английский - B1
+ 
  
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/1621974121_kotenok-12.gif" height="70"/>  Хобби</h1>
 
