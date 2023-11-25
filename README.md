@@ -23,6 +23,17 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitalia2005&theme=buefy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitalia2005&theme=buefy)
 
+
+
+<p align="center">
+Дата рождения: 26.04.2005  Гражданство: РФ Адрес: г. Москва, проспект 60-летия Октября, 11
+</p>
+
+<h1>
+  
+</h1>
+
+
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы</h1>
 
 
@@ -32,7 +43,7 @@
 помощник преподавателя (репетитор) по математике в учебном центре
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование</h1>
 
-### НИТУ МИСИС
+### НИТУ МИСИС - 2 курс
 #### Специальность 
 Информатика и вычислительная техника
 #### Направление
