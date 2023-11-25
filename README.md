@@ -24,13 +24,10 @@
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы</h1>
 
 
-
-
 ### Апрель 2023 – н.в.:
 преподаватель Python и создания игр в Roblox (удалённо) 
 ### Февраль 2023 – Апрель 2023 (3 месяца): 
 помощник преподавателя (репетитор) по математике в учебном центре
-
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование</h1>
 
 ### НИТУ МИСИС
@@ -39,6 +36,4 @@
 #### Направление
 Интеллектуальные системы анализа данных
 09/2022 - 07/2026 
-
-
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="60"/>  Дополнительное образование</h1>
