@@ -23,14 +23,21 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vitalia2005&theme=buefy)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitalia2005&theme=buefy)
 
+<h1><img src="[https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif](https://github.com/Vitalia2005/Vitalia2005/blob/main/015c615900a746a801214550086613.gif)" height="50"/>Обо мне</h1>
 
-
-<p align="center"><p align="center">Дата рождения: 26.04.2005</p>   <p align="center">        Гражданство: РФ</p>          <p align="center">  Город: Москва</p>
-</p>
 
 <h1>
   
 </h1>
+
+
+
+### Дата рождения
+26.04.2005
+### Гражданство
+Россия
+### Город
+Москва
 
 
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы</h1>
