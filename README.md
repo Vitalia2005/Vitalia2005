@@ -29,7 +29,8 @@
 </h1>
 
 
-<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/015c615900a746a801214550086613.gif" height="50"/>Обо мне</h1>
+<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/015c615900a746a801214550086613.gif" height="80"/>Обо мне</h1>
+
 ### Дата рождения
 26.04.2005
 ### Гражданство
