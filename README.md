@@ -7,9 +7,10 @@
   <a href="discordapp.com/users/696341052445163570"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" /></a>
   <a href="https://mail.yandex.ru/compose?mailto=vitaliya2604@yandex.ru&subject=Hello&body=Text"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" /></a>
   <a href="https://wa.me/qr/R7C42JXHIFCCG1"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/whatsapp.svg" /></a>
-  тел. +7 (986) 968 53 60
+  
   
 </p>
+тел. +7 (986) 968 53 60
 
 
 <h1>
