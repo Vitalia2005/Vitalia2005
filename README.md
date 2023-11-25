@@ -25,10 +25,7 @@
 
 
 
-<p align="center">
-<p align="center">Дата рождения: 26.04.2005</p>   
-<p align="center">        Гражданство: РФ</p>          
-<p align="center">  Город: Москва</p>
+<p align="center"><p align="center">Дата рождения: 26.04.2005</p>   <p align="center">        Гражданство: РФ</p>          <p align="center">  Город: Москва</p>
 </p>
 
 <h1>
