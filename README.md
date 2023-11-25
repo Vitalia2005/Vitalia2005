@@ -49,4 +49,6 @@
 
 Номер сертификата за 2 курс: 2102 35049
 
+<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/hunde580%20(1).gif" height="60"/>  Достижения</h1>
+
 
