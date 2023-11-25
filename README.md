@@ -29,7 +29,7 @@
 </h1>
 
 
-<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/015c615900a746a801214550086613.gif" height="80"/>Обо мне</h1>
+<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/015c615900a746a801214550086613.gif" height="70"/>Обо мне</h1>
 
 ### Дата рождения
 26.04.2005
@@ -54,7 +54,7 @@
 #### Направление
 Интеллектуальные системы анализа данных
 09/2022 - 07/2026 
-<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="70"/>  Дополнительное образование</h1>
+<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="60"/>  Дополнительное образование</h1>
 
 
 ## Яндекс.Лицей (2 года)
@@ -65,6 +65,6 @@
 
 Номер сертификата за 2 курс: 2102 35049
 
-<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/hunde580%20(1).gif" height="60"/>  Достижения</h1>
+<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/hunde580%20(1).gif" height="70"/>  Достижения</h1>
 
  Участница многочисленных олимпиад школьников по программированию и математике, призер олимпиад КФУ и «Миссия выполнима» по математике (2021 год)
