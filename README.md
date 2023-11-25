@@ -10,9 +10,9 @@
   
   
 </p>
-<a align="center">
+<p align="center">
 +7 (986) 968 53 60
-</a>
+</p>
 
 <h1>
   
