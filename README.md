@@ -41,4 +41,4 @@
 09/2022 - 07/2026 
 
 
-<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="80"/>  Дополнительное образование</h1>
+<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="60"/>  Дополнительное образование</h1>
