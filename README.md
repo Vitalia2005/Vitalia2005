@@ -8,7 +8,6 @@
 <p align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5E5E5E&random=false&width=435&lines=MISIS+student%2C+programmer+and+teacher" alt="Typing SVG" /></a> </p> 
 
 <p align="center"> <a href="https://t.me/vvvvvitalia"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" /></a>  
- 
 <a href="https://vk.com/v.vvvvi"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vk.svg" /></a>
 <a href="discordapp.com/users/696341052445163570"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" /></a>
   <a href="https://mail.yandex.ru/compose?mailto=vitaliya2604@yandex.ru&subject=Hello&body=Text"> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" /></a>
