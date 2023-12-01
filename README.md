@@ -51,9 +51,11 @@
 
 ### Апрель 2023 – н.в. / April 2023 to present
 преподаватель Python и создания игр в Roblox (удалённо) в междунарожной компании RTS 
+
 Python and Roblox game creation teacher (remotely) at international company RTS
 ### Февраль 2023 – Апрель 2023 (3 месяца) / February 2023 to April 2023 (3 months): 
 помощник преподавателя (репетитор) по математике в учебном центре
+
 teaching assistant (tutor) in mathematics at the training center
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование / Education</h1>
 
