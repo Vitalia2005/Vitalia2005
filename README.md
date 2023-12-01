@@ -46,13 +46,15 @@
 Не замужем (детей нет) / single (no children)
 
 
-<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы / Work experienceE</h1>
+<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы / Work experience</h1>
 
 
 ### Апрель 2023 – н.в. / April 2023 to present
-преподаватель Python и создания игр в Roblox (удалённо) в междунарожной компании RTS / Python and Roblox game creation teacher (remotely) at international company RTS
+преподаватель Python и создания игр в Roblox (удалённо) в междунарожной компании RTS 
+Python and Roblox game creation teacher (remotely) at international company RTS
 ### Февраль 2023 – Апрель 2023 (3 месяца) / February 2023 to April 2023 (3 months): 
-помощник преподавателя (репетитор) по математике в учебном центре / teaching assistant (tutor) in mathematics at the training center
+помощник преподавателя (репетитор) по математике в учебном центре
+teaching assistant (tutor) in mathematics at the training center
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование / Education</h1>
 
 ## Высшее образование (неоконченное) / Higher education (in progress)
@@ -67,16 +69,18 @@
 Физико-математический лицей №93, Уфа, Россия / Physics and Mathematics Lyceum №93, Ufa, Russia
 09/2011 – 06/2022 (11 grades)
 
-<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="60"/>  Дополнительное образование</h1>
+<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="60"/>  Дополнительное образование / Courses and trainings</h1>
 
 
-## Яндекс.Лицей (2 года)
-#### Основы промышленного программирования
-Вхожу в топ лучших выпускников проекта
+## Яндекс.Лицей (2 года) / Lyceum of Yandex Academy (2 years)
+#### Основы промышленного программирования / Fundamentals of Industrial Programming
+Вхожу в топ лучших выпускников проекта / I'm one of the top graduates of the lyceum
 
-Номер сертификата за 1 курс: 2001 35049
+Номер сертификата за 1 курс / Certificate number for the 1st course: 2001 35049
 
-Номер сертификата за 2 курс: 2102 35049
+Номер сертификата за 2 курс / Certificate number for the 2nd course: 2102 35049
+Проверить сертификаты / Check the certificates
+https://lms.yandex.ru/certificate/check
 
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/hunde580%20(1).gif" height="70"/>  Достижения</h1>
 
