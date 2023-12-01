@@ -34,31 +34,39 @@
 </h1>
 
 
-<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/015c615900a746a801214550086613.gif" height="60"/>Обо мне</h1>
+<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/015c615900a746a801214550086613.gif" height="60"/>Обо мне / About me</h1>
 
-### Дата рождения
-26.04.2005
-### Гражданство
-Россия
-### Город
-Москва
+### Дата рождения / Date of birth
+26.04.2005 / April 26, 2005
+### Гражданство / Citizenship
+Россия / Russian Federation
+### Город / City
+Москва / Moscow
+### Семейное положение / Marital status
+Не замужем (детей нет) / single (no children)
 
 
-<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы</h1>
+<h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы / Work experienceE</h1>
 
 
-### Апрель 2023 – н.в.:
-преподаватель Python и создания игр в Roblox (удалённо) 
-### Февраль 2023 – Апрель 2023 (3 месяца): 
-помощник преподавателя (репетитор) по математике в учебном центре
-<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование</h1>
+### Апрель 2023 – н.в. / April 2023 to present
+преподаватель Python и создания игр в Roblox (удалённо) в междунарожной компании RTS / Python and Roblox game creation teacher (remotely) at international company RTS
+### Февраль 2023 – Апрель 2023 (3 месяца) / February 2023 to April 2023 (3 months): 
+помощник преподавателя (репетитор) по математике в учебном центре / teaching assistant (tutor) in mathematics at the training center
+<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование / Education</h1>
 
-### НИТУ МИСИС - 2 курс
-#### Специальность 
-Информатика и вычислительная техника
-#### Направление
-Интеллектуальные системы анализа данных
+## Высшее образование (неоконченное) / Higher education (in progress)
+### НИТУ МИСИС, Россия, Москва - 2 курс / The National University of Science and Technology MISIS, Institute of Information Technologies and Computer Sciences, Moscow, Russia - 2nd year
+#### Специальность / Specialization 
+Информатика и вычислительная техника / Informatics and Computer Science
+#### Направление / Direction
+Интеллектуальные системы анализа данных / Intelligent data analysis systems
 09/2022 - 07/2026 
+
+## Школа / Secondary education
+Физико-математический лицей №93, Уфа, Россия / Physics and Mathematics Lyceum №93, Ufa, Russia
+09/2011 – 06/2022 (11 grades)
+
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="60"/>  Дополнительное образование</h1>
 
 
