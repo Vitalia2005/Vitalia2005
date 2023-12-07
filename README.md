@@ -67,10 +67,6 @@ teaching assistant (tutor) in mathematics at the training center
 Интеллектуальные системы анализа данных / Intelligent data analysis systems
 09/2022 - 07/2026 
 
-## Школа / Secondary education
-Физико-математический лицей №93, Уфа, Россия / Physics and Mathematics Lyceum №93, Ufa, Russia
-09/2011 – 06/2022 (11 grades)
-
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/k.gif" height="60"/>  Дополнительное образование / Courses and trainings</h1>
 
 
