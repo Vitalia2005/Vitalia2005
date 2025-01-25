@@ -47,9 +47,10 @@
 
 
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы / Work experience</h1>
+### Июль 2024 – н.в. / July 2024 to present
+Разработчик игр в компании Иннова
 
-
-### Апрель 2023 – н.в. / April 2023 to present
+### Апрель 2023 – Июль 2024. / April 2023 to present
 преподаватель Python и создания игр в Roblox (удалённо) в междунарожной компании RTS 
 
 Python and Roblox game creation teacher (remotely) at international company RTS
