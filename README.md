@@ -47,6 +47,7 @@
 
 
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы / Work experience</h1>
+
 ### Июль 2024 – н.в. / July 2024 to present
 Разработчик игр в компании Иннова
 
@@ -61,7 +62,7 @@ teaching assistant (tutor) in mathematics at the training center
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование / Education</h1>
 
 ## Высшее образование (неоконченное) / Higher education (in progress)
-### НИТУ МИСИС, Россия, Москва - 2 курс / The National University of Science and Technology MISIS, Institute of Information Technologies and Computer Sciences, Moscow, Russia - 2nd year
+### НИТУ МИСИС, Россия, Москва - 3 курс / The National University of Science and Technology MISIS, Institute of Information Technologies and Computer Sciences, Moscow, Russia - 2nd year
 #### Специальность / Specialization 
 Информатика и вычислительная техника / Informatics and Computer Science
 #### Направление / Direction
