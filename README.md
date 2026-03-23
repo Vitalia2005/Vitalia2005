@@ -49,12 +49,14 @@
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы / Work experience</h1>
 
 ### Июль 2024 – н.в. / July 2024 to present
-Разработчик игр в компании Иннова
+Разработчик игровых проектов в компании Фогейм
+
+
 
 ### Апрель 2023 – Июль 2024. / April 2023 to present
-преподаватель Python и создания игр в Roblox (удалённо) в междунарожной компании RTS 
+преподаватель Python и создания игр в Roblox (удалённо) в школе RTS 
 
-Python and Roblox game creation teacher (remotely) at international company RTS
+Python and Roblox game creation teacher (remotely) at company RTS
 ### Февраль 2023 – Апрель 2023 (3 месяца) / February 2023 to April 2023 (3 months): 
 помощник преподавателя (репетитор) по математике в учебном центре
 
@@ -74,27 +76,15 @@ teaching assistant (tutor) in mathematics at the training center
 
 ## Яндекс.Лицей (2 года) / Lyceum of Yandex Academy (2 years)
 #### Основы промышленного программирования / Fundamentals of Industrial Programming
-Вхожу в топ лучших выпускников проекта / I'm one of the top graduates of the lyceum
 
-Номер сертификата за 1 курс / Certificate number for the 1st course: 2001 35049
 
-Номер сертификата за 2 курс / Certificate number for the 2nd course: 2102 35049
-Проверить сертификаты / Check the certificates
-https://lms.yandex.ru/certificate/check
+## Бассейн Школы 21 / The swimming-pool of School 21
 
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/hunde580%20(1).gif" height="70"/>  Достижения / Accomplishments</h1>
 
- Участница многочисленных олимпиад школьников по программированию и математике, призер олимпиад КФУ и «Миссия выполнима» по математике (2021 год)
- Participant of numerous Olympiads of schoolchildren in programming and mathematics, prize-winner of KFU Olympiads and "Mission Possible" in mathematics (2021), participant of numerous hackathons and programming competitions
-
+ Участница и призёр многочисленных олимпиад школьников по программированию и математике
+ Participant and prize-winner of numerous Olympiads of schoolchildren in programming and mathematics
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/WKQV.gif" height="70"/>  Языки / Languages</h1>
 
-Русский - носитель, Английский - B1
-Russian - native speaker, English - B1
-
- 
- 
-<h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/1621974121_kotenok-12.gif" height="70"/>  Хобби / Hobbies</h1>
-
-Люблю готовить, петь и умею играть на гитаре
-I like to cook, sing and can play the guitar
+Русский - носитель, Английский - B2
+Russian - native speaker, English - B2
