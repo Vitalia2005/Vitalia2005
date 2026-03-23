@@ -49,8 +49,54 @@
 <h1><img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/work.gif" height="50"/>Опыт работы / Work experience</h1>
 
 ### Июль 2024 – н.в. / July 2024 to present
-Разработчик игровых проектов в компании Фогейм
+#### Разработчик игровых проектов в компании Фогейм
+#### Game Project Developer at 4game
+Основные задачи:
+- Написание игровых скриптов на Lua и модифицированном скриптовом языке
 
+- Написание программ на Python для автоматизацииработы
+
+- Работа с базой данных игры SQL (добавление, удаление, изменение, поиск)
+
+- Исправление существующих багов игры, поиск их в чужом коде, работа с Redmine
+
+- Работа с Git
+
+- Разработка и продумывание внутриигровых ивентов
+
+- Работа с Jenkins
+
+- Работа с командной строкой, bash
+
+В основные обязанности входило оценивание объема обновлений с технической стороны, установка обновления игры на тестовые среды и заполнение дизайн-документов для обновлений игры. Также отвечала за подготовку файлов для перевода, исправление ошибок игры любой сложности и за подготовку технической части для проведения профилактических работ. Поддерживала работы внутрипроектных инструментов и устанавливала регулярные патчи игры на тестовые среды. Реализовывала улучшения внутренних и внешних процессов. Разрабатывала дизайн-документы для игровых ивентов, а также код клиентской и серверной части для игровых ивентов. Устанавливала игровые ивенты на тестовые среды.
+
+Key Responsibilities:
+Game Scripting & Development: Developed game scripts using Lua and proprietary scripting languages.
+
+Automation: Created Python-based tools and scripts to automate internal workflows and routine tasks.
+
+Database Management: Managed SQL databases, including data entry, deletion, modification, and complex queries.
+
+Bug Fixing & QA: Identified and resolved bugs in both original and peer-written code; tracked and managed issues using Redmine.
+
+Version Control & CI/CD: Utilized Git for version control and Jenkins for continuous integration and deployment.
+
+System Administration: Worked with command-line interfaces and wrote Bash scripts for environment management.
+
+Event Design: Conceptualized and developed in-game events, including full-stack implementation (client and server-side code).
+
+Professional Impact:
+Technical Oversight: Conducted technical estimations for upcoming updates and managed the deployment of game builds to testing environments.
+
+Documentation: Authored and maintained detailed Game Design Documents (GDD) and technical specifications for updates and events.
+
+Full-Cycle Maintenance: Oversaw the technical preparation for scheduled server maintenance and ensured the stability of internal project tools.
+
+Localization Support: Prepared and managed asset files for translation and localization processes.
+
+Process Optimization: Implemented improvements to both internal development workflows and external-facing processes.
+
+Patch Management: Regularly deployed patches to staging environments, ensuring seamless integration of new features.
 
 
 ### Апрель 2023 – Июль 2024. / April 2023 to present
