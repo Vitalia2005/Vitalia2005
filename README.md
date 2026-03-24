@@ -112,7 +112,7 @@ teaching assistant (tutor) in mathematics at the training center
 <h1> <img src="https://github.com/Vitalia2005/Vitalia2005/blob/main/study.gif" height="80"/>  Образование / Education</h1>
 
 ## Высшее образование (неоконченное) / Higher education (in progress)
-### НИТУ МИСИС, Россия, Москва - 4 курс / The National University of Science and Technology MISIS, Institute of Information Technologies and Computer Sciences, Moscow, Russia - 2nd year
+### НИТУ МИСИС, Россия, Москва - 4 курс / The National University of Science and Technology MISIS, Institute of Information Technologies and Computer Sciences, Moscow, Russia - 4nd year
 #### Специальность / Specialization 
 Информатика и вычислительная техника / Informatics and Computer Science
 #### Направление / Direction
